@@ -1,0 +1,13 @@
+c:\users\hafiz\documents\visual studio 2012\Projects\MyActivitiesPlannerWPF\MyActivitiesPlannerWPF\bin\Debug\MyActivitiesPlannerWPF.exe.config
+c:\users\hafiz\documents\visual studio 2012\Projects\MyActivitiesPlannerWPF\MyActivitiesPlannerWPF\bin\Debug\MyActivitiesPlannerWPF.exe
+c:\users\hafiz\documents\visual studio 2012\Projects\MyActivitiesPlannerWPF\MyActivitiesPlannerWPF\bin\Debug\MyActivitiesPlannerWPF.pdb
+c:\users\hafiz\documents\visual studio 2012\Projects\MyActivitiesPlannerWPF\MyActivitiesPlannerWPF\obj\Debug\MyActivitiesPlannerWPF.csprojResolveAssemblyReference.cache
+c:\users\hafiz\documents\visual studio 2012\Projects\MyActivitiesPlannerWPF\MyActivitiesPlannerWPF\obj\Debug\MainWindow.baml
+c:\users\hafiz\documents\visual studio 2012\Projects\MyActivitiesPlannerWPF\MyActivitiesPlannerWPF\obj\Debug\MainWindow.g.cs
+c:\users\hafiz\documents\visual studio 2012\Projects\MyActivitiesPlannerWPF\MyActivitiesPlannerWPF\obj\Debug\App.g.cs
+c:\users\hafiz\documents\visual studio 2012\Projects\MyActivitiesPlannerWPF\MyActivitiesPlannerWPF\obj\Debug\MyActivitiesPlannerWPF_MarkupCompile.cache
+c:\users\hafiz\documents\visual studio 2012\Projects\MyActivitiesPlannerWPF\MyActivitiesPlannerWPF\obj\Debug\MyActivitiesPlannerWPF.g.resources
+c:\users\hafiz\documents\visual studio 2012\Projects\MyActivitiesPlannerWPF\MyActivitiesPlannerWPF\obj\Debug\MyActivitiesPlannerWPF.Properties.Resources.resources
+c:\users\hafiz\documents\visual studio 2012\Projects\MyActivitiesPlannerWPF\MyActivitiesPlannerWPF\obj\Debug\MyActivitiesPlannerWPF.csproj.GenerateResource.Cache
+c:\users\hafiz\documents\visual studio 2012\Projects\MyActivitiesPlannerWPF\MyActivitiesPlannerWPF\obj\Debug\MyActivitiesPlannerWPF.exe
+c:\users\hafiz\documents\visual studio 2012\Projects\MyActivitiesPlannerWPF\MyActivitiesPlannerWPF\obj\Debug\MyActivitiesPlannerWPF.pdb
